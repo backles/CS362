@@ -1,0 +1,8 @@
+The cards that I changed are:
+remodel(check)
+smithy (check)
+great_hall (check)
+salvager (check)
+village (check)
+
+I put them all in their own function above the function they were in.
